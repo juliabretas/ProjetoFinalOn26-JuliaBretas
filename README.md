@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img style="background: white;width: 100%" src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
-</h1>
-
 ## on26ProjetoFinal - Júlia Brêtas
 
 ### Contexto:
